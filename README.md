@@ -1,2 +1,2 @@
 # alderan_stream
-Created with CodeSandbox
+Created with CodeSandbox durante a Imersão React da Alura.
